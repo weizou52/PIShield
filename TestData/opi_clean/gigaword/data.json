@@ -1,0 +1,402 @@
+[
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "two bodies have been recovered from a flooded coal mine in yiyang city , central china 's henan province , as of #:## thursday morning , rescuers said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "todd martin bounced back from a defeat on friday to beat france 's guy forget in straight sets on sunday and seal the united states ' victory in their davis cup world group clash ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "ailing hungarian prime minister gyula horn has ` flu and has canceled a four-day visit to canada that was to start sunday , officials said wednesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a roman catholic cardinal who has been mentioned as a possible future pope is being investigated for possible money laundering , mexico 's justice department confirmed thursday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a government-owned newspaper alleged wednesday that executives from all ## chinese steel mills participating in iron ore price talks this year were bribed by rio tinto employees ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "australia will field specialist one-day cricket teams in future as part of its drive to win the #### world cup ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "former heavyweight world champion evander holyfield , who retired after being beaten by michael moorer for the UNK title in april , is set for a return to the ring ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a former khmer rouge commander , who is serving a life term for his role in the murder of three westerners , was sent to a hospital saturday for aids treatment , an official said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the probe into vice-president alberto dahik 's alleged irregularities could extend to include president sixto duran ballen ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "cynthia UNK , whose sixth novel , `` foreign bodies '' has just been published , is still in the thrall of henry james ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "japanese share prices opened lower on friday with the nikkei-### index falling ###.## points or #.## percent to ##,###.## in the first minutes of trading ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "african union -lrb- au -rrb- commission chairperson alpha oumar konare said on monday that he continued to follow with concern the situation in guinea in west africa ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "vice president annette lu urged two opposition leaders friday to deliver on their promises to protect the republic of china -lrb- roc -rrb- during their upcoming visits to the people 's republic of china -lrb- prc -rrb- ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a senior north korean official on wednesday asked for asylum in the south korean embassy in beijing in the highest level defection ever from pyongyang , information minister oh UNK said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "us f-## fighters chalked up two more close encounters with airliners , one of which took evasive action after its collision avoidance alarm sounded , an air force spokeswoman said monday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a dutch accountancy watchdog on monday heavily criticised auditing group deloitte over its role in an accounting scandal at dutch retailer ahold in #### ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a decision on whether the skull of aboriginal warrior UNK will be returned to australia after ### years in england could be made as early as friday , the british consul general said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a report into how british police handled april protests against the g-## summit in london said tuesday the force 's tactics were inadequate and should be reviewed ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "three adults and two youths were arrested and charged saturday in connection with the fatal stabbing of a ##-year-old on a busy subway platform , the police said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a total of ##.# million wasps were released into the forested UNK hill inside beidaihe , a well-known seaside summer resort in qinhuangdao city , north china ' s hebei province , in a bid to help fight plant disease and insect pests there ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "ecuador 's congress thursday voted to remove president abdala bucaram from office but the head of state immediately said he would not obey the measure ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "mental-health treatment has come a long way , but more needs to be done to ensure that people who suffer mental illness _ and their loved ones _ get the help they need , former first lady rosalynn carter said here monday night ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a moderate earthquake rocked mexico early thursday , sending frightened residents into the streets ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the tourism , automobile , insurance and other industries developed smoothly in the first year of china 's world trade organization -lrb- wto -rrb- membership ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a ##-year-old vietnamese has his name written in the vietnam guinness book , and is expected to have it in the world 's guinness record soon , because his hair is over # ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "world no. # pete sampras of the united states beat world no. # patrick rafter of australia #-# -lrb- #-# -rrb- , #-# sunday to win the $ #.## million atp championship for his ##th tournament title in mason , ohio ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "dr. richard j. bing , a pioneering cardiologist whose research led to new understandings of blood flow , congenital heart disease and the mechanics of the heart , died monday at his home in la canada , calif. ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "despite poor weather conditions , nearly #,### taiwan businessmen and their families made the trip to kinmen from china via the mini links wednesday -- three days before saturday 's presidential election , according to kinmen harbor authorities ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "an australian manufacturing innovation could halve the cost of solar cells by allowing silicon wafers to be peeled off like pancakes rather than sawn from blocks , researchers said tuesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "with an economics degree from the university of maine , ##-year-old josh UNK _ a native of this rocky island _ had a resume that seemed to point straight toward a white-collar job in the city ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "surveyors have almost completed a location survey for a branch line of the qinghai-tibet railway that will extend from tibetan capital lhasa to xigaze ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "lithuania rallied from a five-point deficit and scored the last nine points to beat france ##-## saturday in the semifinals of the european championship ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "hong kong share prices were flat in early trade friday after opening lower as the market consolidated recent strong gains , with wall street 's decline overnight keeping trade cautious , dealers said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the combined britain and ireland team retained the curtis cup saturday as the united states failed for the third time in nine months to win one of golf 's four major cups ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "chinese swimming association -lrb- csa -rrb- said here tuesday that it fully supports the world swimming 's governing body fina 's ban on its two swimmers wang wei and xiong UNK , both of whom tested positive for a second time for banned drugs ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "taiwan 's mainland china policy-maker su chi said on thursday that judging from the reaction of the united states , washington attaches importance to taipei 's stance on its cross-taiwan strait relationship ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the united states forgave part of yugoslavia 's debt on thursday in a sign of improving relations with the country 's reformist leadership ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "trevor birch resigned as chief executive of chelsea saturday , five days after the arrival of his manchester united counterpart at stamford bridge ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "in an apparent bid to iron out recent differences , the head of britain 's military exports met sunday with saudi arabia 's defense minister ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the head of a group created to recommend more administrative autonomy to the northern indian state of jammu-kashmir has resigned , domestic news agencies said wednesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a british citizen was detained in southern russia for traveling in the country without a visa , the british embassy said tuesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the second wife of earl charles spencer , the younger brother of britain 's princess diana , was granted a divorce on friday on the grounds of his `` unreasonable behavior ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "separate taliban attacks in eastern afghanistan saturday killed ## people , including four afghans working for the us military and two civilians , officials said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a tour bus carrying ## british , canadian and german tourists careered out of control wednesday and crashed , killing # tourists , the company that owns the bus said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "us stocks finished with modest gains thursday as investors shook off a hotter - than-expected inflation report and focused on the encouraging signs from the market 's rebound a day earlier ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "prime minister john howard said wednesday he was confident the united nations would support australia 's call to list a militant southeast asian islamic group , suspected of masterminding the bali bombings , as a terrorist organization ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "french qualifier paul-henri mathieu of france came back from a one set deficit sunday to upset seventh-seeded sjeng schalken of the netherlands and capture his first career title at the us$ #.# million kremlin cup ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "archaeologists in the eastern province of zhejiang have unearthed a section of ancient canal dating back more than #,### years in huzhou city of east china 's zhejiang province ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "three years ago , juanes was a relative unknown and wondering whether his decision to move to los angeles and start a solo career was a good idea ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "british-made jaguar cars formally entered the philippines ' high-end vehicle market friday , hoping to cash in on the country 's newfound economic boom , officials said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "alexander karpov has come a long way since #### , when his television station broadcast the news from a bomb shelter underneath the city 's post office ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the guerrilla is out there again , this time telling us how to become successful entrepreneurs in the next century ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "ten people drowned when a boat transporting #,### bags of rice capsized in stormy gulf waters off the iranian coast , newspapers reported here wednesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "england 's top judge said tuesday that efforts to fight crime by imposing tougher sentences and locking up more offenders have failed , leading to overcrowded prisons ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the group of eight summit next month in scotland will have to grapple with divergences over global warming and the threat to economic growth posed by `` deep imbalances '' such as the sky-high price of oil , french president jacques chirac said tuesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the brushfire over sen. john mccain 's use of the anti-asian slur `` UNK '' flared and faded within a few days late last month ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "with two cobra snakes coiled around his neck , a federal minister walked on fire , honored village UNK and vowed to promote occult studies , a news report said wednesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "chinese president jiang zemin accepted credentials from four new ambassadors to china here this morning ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "mozambique 's main trade union federation , the UNK , has decided to continue the campaign on defending the rights in the workplace of people living with hiv , in alliance with four non-governmental organizations ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a ##-year-old german citizen who has been linked to a deadly april attack on a tunisian synagogue may have been far more active in al-qaida than previously believed , germany 's federal prosecutor said in a report thursday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "south african president nelson mandela will pay a two-day official visit to uganda next week at the invitation of president yoweri museveni ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "russian prime minister mikhail kasyanov said friday he did not expect any major volatility on global oil markets following the resignation of venezuelan president hugo chavez , and that russia would not change its policy on oil exports any earlier than planned ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the committee of the indonesian open #### has given the chinese and south korean contingents a chance until august ## to make up their minds about their participation in the badminton tournament , the antara news agency reported saturday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a jury found former tyco international chief dennis kozlowski and his top lieutenant guilty friday of grand larceny , fraud and falsifying business records ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "northern ireland police have found an explosive device in the south of the province after chasing down a suspect who managed to get away , police said sunday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "participants at the `` business after sars '' conference expressed saturday that hong kong would remain the premier business center in asia despite its economy being adversely affected by the disease ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "constellation brands inc. said wednesday that its fiscal first-quarter profit slid ## percent partly on increased restructuring charges , but the wine company 's adjusted results still beat wall street expectations ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "sporting lisbon went down to a late goal against lowly moreirense in the portuguese super liga while nacional missed its chance to move into fourth place when it lost #-# sunday at leiria ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "us treasury secretary john snow has described the rebuff delivered by french and dutch voters to the european union 's proposed constitution as a `` wake-up call '' for eu leaders to accelerate reforms ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "iran 's top three reformist leaders demanded an end to the heavy crackdown launched by the ruling clerics after the disputed june ## presidential election , warning that the suppression of protests could `` radicalize '' the opposition movement , an opposition web site reported tuesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "chinese share prices extended record gains thursday , adding #.## percent on wall street 's sharp overnight advance after the us federal reserve kept interest rates on hold , dealers said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a generator failure forced sweden 's largest nuclear power plant to shut down one of its turbines wednesday and operate at half its normal output , a spokesman said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "an elderly member of morocco 's small jewish community was stabbed to death saturday , the second killing of a jewish citizen in days , security officers said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "these business stories for release wednesday , may ## , #### , are moving today to clients of the new york times news service ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "president of the international committee of the red cross -lrb- icrc -rrb- cornelio sommaruga had a brief meeting monday with the three united states servicemen held by the federal republic of yugoslavia since ## march #### ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a senior u.s. envoy arrived in tokyo sunday to meet with japanese officials as part of washington 's diplomatic campaign to unify a stand on north korea 's nuclear weapons program ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "police estimated that some ##,### people took part in the annual homosexuals and lesbians `` christopher street day '' parade in berlin saturday , demanding gay rights , including the right to marry ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "an airliner from moscow was met by federal agents as it landed in new york on wednesday so officials could interview a passenger on board , an fbi spokesman said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "UNK ! the angels are finally going to the world series ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a mob stabbed and burned to death at least ## christians in the religiously divided capital of indonesia 's maluku province sunday , witnesses said , in the worst violence since a fragile peace was forged earlier this year ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "hong kong stocks dropped ##.## points , or #.## percent , to open at #,###.## monday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "jakarta 's j.w. marriott hotel will reopen on monday , just over a month after a car bomb exploded near its lobby , killing ## people and injuring ### , the management said saturday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "at least ### people have been confirmed dead and over #,### others injured in a powerful earthquake that struck western turkey in the early hours of tuesday , turkish news reports said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "china has created more than #,### high-tech enterprises on university campuses , sources with the education authorities said here today ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "there are over #.# million child workers engaged in over ### professions in bangladesh , and at least ## percent of them work in hazardous conditions with minimum or no salary , reported the official bangladesh news agency on wednesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "russian fifth seed marat safin reached the wimbledon second round on monday with a #-# , #-# , #-# win over thailand 's paradorn srichaphan ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "few people ever know how much pressure olympic diving champion tian liang has to deal with behind his UNK shining smile ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the united arab emirates -lrb- uae -rrb- monday called on the european union -lrb- eu -rrb- to play its role in solving the kosovo crisis ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the opposition leader in parliament accused the government thursday of trying to hustle through legislation to create a body to help debt-ridden companies and banks burdened by bad loans ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "officials at brown university probably feel like drivers prosecuted for going ## miles over the speed limit while drunken motorists and UNK travel the freeways with virtual impunity ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "with fia president max mosley bowing out , aspiring candidate ari vatanen does n't believe mosley 's preferred successor jean todt can repair the dignity of formula one 's governing body ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "six red cross workers were still missing tuesday , five days after they were abducted by gunmen and their vehicles burned , a spokeswoman said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "floridians got another first-hand look at president bush on friday , their eighth since he took the oath of office , suggesting that if any of them have forgotten the ##-day election recount crisis of #### , the white house has not ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a series of bomb blasts rocked the poor township of soweto early wednesday , killing one person , ripping a hole in a mosque and damaging several railway stations and rail lines running into the nearby city of johannesburg ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a bus collided with a car in central china and fell ## meters -lrb- ### feet -rrb- off a cliff , killing ## people and injuring two , the official xinhua news agency said tuesday ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "the national electoral council -lrb- cne -rrb- announced thursday that venezuelan president hugo chavez could be subjected to a recall referendum , as indicated by the preliminary results of the reconfirmation process of the doubtful signatures ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "today 's xinhua a stock index dropped by #.## points to close at ##.## ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "a ##-year-old software billionaire said wednesday that he would spend $ ### million to realize his vision of ##st century higher education : a giant free web site that would provide access to what he calls the `` ##,### greatest minds of our time , '' in lectures and interviews recorded especially for the venture ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "two israeli fighter-bombers on saturday rocketed a palestinian guerrilla base south of beirut , lebanese security officials said ."
+    },
+    {
+        "instruction": "Please give me a general and brief summary of the following text.",
+        "data_prompt": "north china 's taihang mountainous area , once one of the poorest in the country , is developing a new economy with dozens of industries arising , including fruit growing and animal husbandry ."
+    }
+]

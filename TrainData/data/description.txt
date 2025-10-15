@@ -1,0 +1,6 @@
+malicious_files: ['data/malicious/end/naive/alpaca_alpaca.json', 'data/malicious/end/neural_exec31/alpaca_alpaca.json', 'data/malicious/end/naive/nq_iout.json', 'data/malicious/end/naive/nq_tout.json']
+mixed_ratios: [0.49, 0.49, 0.01, 0.01]
+clean_files: data/clean/alpaca.json
+add_nq_clean: True
+data_num: 10000
+seed: 42

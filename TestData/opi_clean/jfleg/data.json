@@ -1,0 +1,402 @@
+[
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "If there were no concerned adults who had to care for the feeding , care and well being of those children , humanity as we know it would not exist ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Do I want to risk my 2 years savings for a trip to Spain or do I want to use my kids college fund to start up my business ?"
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "That 's why he is a legend in these days and people repect him ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Scond , Menzied points that chinese ships in the 1400s used very distinctive anchors that were round stones with a hole in the middle ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "When you are able to understand ideas and concepts and with this are able to understand structures of thinking this can help you a lot ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "On the other hand , the reading passage states that using chemicals is clearly not such a good idea because it can develop parasitic infections in the human body ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "The cutting the dead trees is called salvage logging ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "In the world oil price very high right now ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "He knows many countries around the world ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Take the example of Bangalore city in India ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "And also the markting can do some adjust about the changing ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "They share their views and ideas within a group ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "For example , the hamburgers in the commercials and menus look way more juicy , neat , and fresh than the ones you buy ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "When you`re making a tour guide trip , you already have a everything settled from the time you`re departing to the time you arrive ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "When price of gas goes up , the consumer do not want buy gas for fuels ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Reasons is pay for them and teach the more than other institute ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "government rising the tax on gasoline ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "By contrast , the lecture claims that quality of discussion is the most important instead of the numbers of discussion ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "A person can not be successful if they act the same as regular people ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "To have broad knowledge of many academic subject , we can pick up more interesting fields about subject and it 's too easy to understand ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "In order hand , when I was a fresh man in my college , I could concentrate on my favorit subjects ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "For instance , when I was elementary school , I learned mathmatics formura without concept ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "This things can make us more successful in life ; even though were that successful we must continue are work , we should take our chances to the greater heights ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "They say that they have some reasons ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Thus , after you return to the city , you may became brothers ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "And I going to anothere country ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "When we talk about the so-called value of a product , we envision a scenario where dozens of products are available in supermarket shelves and when you switch on a television , there is an endless stream of commercials , each claiming exciting new features about the products advertised ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "He was successful aleady in his fields of living electric equipments , but , his began to new dominant of electronics technology and was succeed ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "the fact is that it would rain when the specific condition is prepared ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "some guider is not sure about information ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "In a group trip , we are forced to the goup time schedules ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Forexample , My cousin is 12years old ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "In order to understand these , and more importantly , to link these together , that wisdom will duly serve him ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Second , he can not accept that result of lie detectors use as evidence in court ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "For example , if you visit the ruins in Rome , without a tour guide you do n't realize the importance and the history behind these ruins ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "This rebuffs the reading passage 's explanation that prescribed might be caused fire spreading , so it is hard to coordinate ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "However , I firmly believe that students have to learn broad knowledge of many academic subjects ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Also we do not have to care about other people , it means there is a privacy of us and we can talk loudly or might be able to sing ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "It has come to be one of the effective measures manufatures use in selling their products ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I guduate in university ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Confidence comes naturally since perfection is its along ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "In younger generation one can find more joy externally by chasing their dreams and in elderly people the it can be internal ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "On the other hand , a chef that try new tastes will be recognize and he or she will gain a place in the cooking world ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "That is not what merit-based payment is really about ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "To work hard means to run the company ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I support my feel that it can be part of life ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "It mentions about the cane toad which threatens many local species in Australia ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "But these thing seem to hard for old people , they move so hardly , and do n't have health body to play this thing like sports ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "for example if successful people do n't try new things how people could do the airplane , cars , computers , etc ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I have great influence on my life ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "our social wil be a lovely social , If the dram can cometure i think we must learn more knowledge ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "So a prohibition would n't solve the real problem ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I mean our homecontry because we can speak Japanese and can use Japanese ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Sometimes , it is very comportable but , it 's not important for me ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Also , students , by paying more attention to understanding ideas and concepts , will not only comprehend the facts they are given , but also acquire the skill of understanding , which can be applied in all areas surrounding them ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Everybody deserve to enjoy life ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "boys and girls easy beleive them ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "The disability of doing the things that desired make olders unhappy ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "But , in the technology and evolution time people 's mind had arrived to a solution , they must decrease water carriers or water way ships which travel between North America and The Eastern Europe , or build more canals and ship ports so the load on the ship can be decreased and less zebra mussel is transported ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I expect human can make new material to replace gas but it is very difficult ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "In this movie father has handicapped ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I like about that , but after that it 's gradually starting boring and finally I did n't have interesting about all the stuff ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "And you can not imagine any government giving up so many workplaces for unemployment ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "So i asked my student , how did he think about my lesson , and tried to find out where the proublem it is ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "This is clearly seen in the way many young people organize the collection of funds or books to help others receive a proper education , and , also in the way many students go to schools for the blind to read out books to them and help them out ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "New kinds of vehicles will be invented with new technology than today ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I can image both statements of views , as far as I am concerned , I consider that cars will not be more and more in the future ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Last month , I needed to buy digtal-camera ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "He mentions that chemicals used for curing illed fish harvested in farms could danger wild species ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "However , I think that what students like is more important ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "So its depends on the defferent body nature ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "It is dangerous for the plants and corps and changes rivers too acidic for living fish and other animals in ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "I do not know American teathers so but some Japanese theacher speak just facts in the class hours ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "When my grandmother getting old , she could not move her body easily ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "because we are watching movie earn something ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "what is the world and what are we supposed to do here ?"
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "because , student must do homework ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "As we know that fish is taken as a meal it is harmful for the human beings to do fish farming ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "First of all , you will know a lot of things about this subject becous you do not have any thing elss to do ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "In malysia , there are a lot of cars ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Anther reason to joing a big company is job security ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "They do not have to go to work everyday instead they may go see a football game in a different city ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Young people nowdays do n't give enough time to helping their communities ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "He could then strive to get practical experience of that field after all theory is lame without practical ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "The youth today are aware of their responsibilites as a citizen ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "As a tour guide , the person has to be familiar with the place he or she is touring ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Billions of peple use it every day ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "though the preferrences might be different for a young person and for an older person to fully enjoy their life ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Instead , they would help with the house or with farming ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "As people say `` The luck follows the ones that are brave '' and to destroy your everyday routine you must be brave enough but that will probably bring you success ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Because students are young ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "The professor also says that soy bean should be used as fod for the fish ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "So it is very strange that why the poeple were able to live without enough water for 50 years , and then moved because they did n't have enough water ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "You can only be successfull by learning new stuff and trying it too , by being an open and creative mind ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "That means if I have an broad knowledge in politics then I m aware that 'where to speak what ' ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "But there still have a lot of people did not successful yet ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "The first reason is that Groval warming did not connect with Anasazi disappearing ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Our country have been criticizing on the one way teaching ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "Although understanding the concepts is important , sometimes facts are the only solution for them to learn ."
+    },
+    {
+        "instruction": "You are an English grammatical error correction tool that can identify and correct grammatical errors in a text. Now, please identify and correct any grammatical errors in the following text while keeping the original text structure unchanged as much as possible.",
+        "data_prompt": "By the time up everyone should be gathered up in a certain place ."
+    }
+]

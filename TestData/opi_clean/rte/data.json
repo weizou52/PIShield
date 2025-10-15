@@ -1,0 +1,402 @@
+[
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Microsoft for instance, one of the world's largest software companies, lost more than an estimated 500 million dollars last year because of software theft. \r\n 2. Microsoft would spend 500 million dollars."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. In Nigeria, by far the most populous country in sub-Saharan Africa, over 2.7 million people are infected with HIV. \r\n 2. 2.7 percent of the people infected with HIV live in Africa."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The witness then spotted Rodriguez crouching behind a gate for protection. \r\n 2. The witness rescued Rodriguez."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Pole Robert Kubica became the highlight of the weekend by winning the pole, but was slow off the start and finished third on the podium. Nick Heidfeld, his BMW Sauber teammate finished fourth. The results puts BMW as the new leader of the Constructors' championship, one point ahead of Scuderia Ferrari. Heikki Kovalainen came fifth and became the only McLaren driver to finish in the points. Jarno Trulli (Toyota) and Mark Webber (Red Bull-Renault) ran 6 and 7 places respectively with Nico Rosberg (Williams-Toyota) closing out the top eight with 1 point. Timo Glock (Toyota) was engaged in a hard battle with Fernando Alonso (Renault) and came 9th ahead of the Spanish 2005 F1 Champion. \r\n 2. Robert Kubica has been appointed by Scuderia Ferrari."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The publishing companies Bloomsbury (U.K.) and Scholastic (U.S.) released cover art for the seventh Harry Potter book, Harry Potter and the Deathly Hallows. \"The structures around Harry show evident destruction and in the shadows behind him, we see outlines of other people,\" David Saylor, Scholastic's art director, said in a statement describing the U.S. version. \"For the first time, the cover is a wraparound. On the back cover spidery hands are outstretched toward Harry. Only when the book is opened does one see a powerful image of \"He-Who-Must-Not-Be-Named\", his glowing red eyes peering out from his hood.\" \r\n 2. Rowling is the author of \"Harry Potter\"."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Tropical Storm Irene on August 11, 2005 at 16:15 UTC. Tropical Storm Irene will increase in strength over the next several days, possibly developing into   a hurricane that will hit the east coast of the United States, said the National Hurricane Center of Miami, Florida in a report today.  Irene was located approximately 975 kilometers south-southeast of Bermuda at 16:00 UTC today. Forecasters say that the storm is now moving in a west-  northwest direction with top sustained winds of 40 miles per hour. \r\n 2. A storm called Irene is going to approach the east coast of the US."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. FMLN reports to our people, and to the people of the world, that the massacre against the Salvadoran Workers National Union Federation [Fenastras] was carried out by Colonel Elena Fuente, as the head of the morbid death squad of the army's 1st Infantry Brigade, in response to our military attack on the army staff. \r\n 2. Fenastras was attacked by FMLN."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. As spacecraft commander for Apollo XI, the first manned lunar landing mission, Armstrong was the first man to walk on the Moon. \"That's one small step for a man, one giant leap for mankind.\" With these historic words, man's dream of the ages was fulfilled. \r\n 2. Neil Armstrong was the first man who landed on the Moon."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. In clashes between Israeli forces and gunmen, one Palestinian was killed and 10 wounded, hospital officials said. \r\n 2. A Palestinian was killed and other people were wounded."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Mice given a substance found in red wine lived longer despite a fatty diet, a study shows. \r\n 2. Mice fed with red wine lived longer despite a fatty diet."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Deceased U.S. soldiers and their effects were evacuated to Japan and then shipped home in refrigerated containers for interment in the U.S. \r\n 2. The U.S. military evacuated U.S. citizens."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The harvest of sea-weeds is not allowed in the Puget Sound because of marine vegetation's vital role in providing habitat to important species. \r\n 2. Marine vegetation is  harvested."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. We learn that Claretta Petacci, Mussolini's last mistress, had a tendency to whine and to lie all day in bed, eating chocolate. \r\n 2. Claretta Petacci was Mussolini's last mistress."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. When Albright was the US ambassador to the United Nations, Lesley Stahl of \"60 Minutes\" asked her about the sanctions and the deaths of Iraqi children. Albright said it was America's responsibility to make sure the Gulf War did not have to be fought again. \r\n 2. Albright said that to punish Saddam Hussein, the deaths of those children were \"worth it.\""
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Hadley said Jordan was chosen as the site of the meeting between Bush and al-Maliki because of its support for the unity government in Iraq and the fact that Bush would be in the region. \r\n 2. Bush will meet al-Maliki in Hadley."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A jury is slated to decide for the first time whether Jack Kevorkian, famed as \"Dr. Death,\" has violated Michigan's assisted-suicide ban, while the state continues to grapple with the issue of what to allow when the ill want to end their pain by ending their lives. \r\n 2. Jack Kevorkian is the real name of \"Dr. Death\"."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The Kota ( \"Fort\" ), or Old City, for example, sometimes called the downtown section, is the central business district and Indonesia's financial capital. \r\n 2. The Kota is the country's business center."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Russian Public Television head Vladislav Listyev is shot in the heart by an unknown gunman outside his Moscow home. The attack is linked to opponents of an advertising ban he had proposed for the television channel. \r\n 2. Vladislav Listyev was murdered in Moscow."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Sunday's earthquake was felt in the southern Indian city of Madras on the mainland, as well as other parts of south India. The Naval meteorological office in Port Blair said it was the second biggest aftershock after the Dec. 26 earthquake. \r\n 2. The city of Madras is located in Southern India."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Brown brushed off a threat made Monday by his counterpart, Foreign Trade Minister Wu Yi, that if China's effort to join the General Agreement on Tariffs and Trade (GATT) by the year's end is unsuccessful, Beijing will no longer be bound by previous trade and economic commitments. \r\n 2. Wu Yi is the Foreign Trade Minister of China."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The trial began today for a Pennsylvania state trooper accused of killing his girlfriend's estranged husband. Kevin Foley, 43, is accused of cutting the throat of John Yelenic, a dentist who was in the final stages of finalizing a divorce from his wife, Michele. According to prosecutors, Foley \"loathed Dr. Yelenic\" so much that he asked another fellow trooper to help him commit the alleged murder, which occurred in Yelenic's Blairsville home. \r\n 2. Yelenic molested his adopted son."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The Amish community in Pennsylvania, which numbers about 55,000, lives an agrarian lifestyle, shunning technological advances like electricity and automobiles. And many say their insular lifestyle gives them a sense that they are protected from the violence of American society. But as residents gathered near the school, some wearing traditional garb and arriving in horse-drawn buggies, they said that sense of safety had been shattered. \"If someone snaps and wants to do something stupid, there's no distance that's going to stop them,\" said Jake King, 56, an Amish lantern maker who knew several families whose children had been shot. \r\n 2. Pennsylvania has the biggest Amish community in the U.S."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The court in Angers handed down sentences ranging from four months suspended to 28 years for, among others, Philppe V., the key accused. The court found that he, along with his son Franck V. and Franck's former spouse, Patricia M., was one the instigators of a sex ring that abused 45 children, mostly in the couple's flat. The abuses of children aged between six months and 12 years took place in a poor and deprived area of the western french town of Angers. Many of the defendants were poor and lived on benefits and some were mentally impaired. About 20 of them admitted to the charges, while others claimed to have never heard of a sex ring. \r\n 2. Franck V. comes from Angers."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. NEW YORK \u2014  Somali pirates attacked and damaged an American ship carrying humanitarian aid Tuesday, but the ship and crew were safe under Navy escort, the military and shipping company said. The pirates fired rocket-propelled grenades and automatic weapons at the Liberty Sun as it carried food for famine-wracked African nations, said the vessel's owner, Liberty Maritime Corp. The ship was en route from Houston to Mombasa, Kenya, with a roughly 20-member crew, officials said. . \r\n 2. Pirates damaged the ship Liberty Maritime."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A compound in breast milk has been found to destroy many skin warts, raising hopes it also might prove effective against cervical cancer and other lethal diseases caused by the same virus. \r\n 2. Breast milk may help fight cervical cancer."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. While Bush was in the air, the White House was evacuated, with many employees running away from the premises on orders from Secret Service agents. \r\n 2. The U.S. military evacuated U.S. citizens."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The drugs that slow down or halt Alzheimer's disease work best the earlier you administer them. \r\n 2. Alzheimer's disease is treated using drugs."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The Federal Bureau of Investigation started an independent probe of the circumstances shortly after the White House made plain that President Bill Clinton considered industrial espionage a particular threat to US economic interests. \r\n 2. A US probe of the investigation started at the instigation of the Commerce Department."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A new report indicates that women's participation in decision-making in the country is minimal. \r\n 2. Women are poorly represented in parliament."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Hodler claimed there were also irregularities in the campaigns organized by Atlanta for the 1996 Summer Games, Sydney for the Summer Olympics in 2000 and Salt Lake City for the 2002 Winter Games. \r\n 2. Before Salt Lake City, Winter Olympic Games took place in Nagano."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Two British soldiers have been arrested in the southern Iraq city of Basra, sparking clashes outside a police station where they are being held. \r\n 2. Two British tanks, sent to the police station where the soldiers are being held, were set alight in clashes."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. New York boasts the largest number of billionaires, with 40 residing in the Big Apple. The world's youngest billionaire is 22-year-old Hind Hariri, daughter of assassinated former Lebanese Prime Minister Rafik Hariri. \r\n 2. The number of billionaires increases."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The mistaken spelling, Miller explained, was made in a section of her notes unrelated to the interviews with Libby.  Other notes documented 3 interviews with Libby, conducted in the year 2003, that in her NYT column she wrote: June 23) ... Mr. Libby raised the subject of Mr. Wilson's wife for the first time. I wrote in my notes, inside parentheses, \"Wife works in bureau?\" I told Mr. Fitzgerald that I believed this was the first time I had been told that Mr. Wilson's wife might work for the C.I.A. \r\n 2. Judith Miller works for the New York Times."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The job gains mean that  President Bush can celebrate - albeit by a very fine margin - a net growth in jobs in the US economy in his first term in office. \r\n 2. More jobs were created during President Bush's first term."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Despite CNOOC's all-cash bid, Unocal said its recommendation to shareholders in favor of the $16.4 billion offer of cash and stock from Chevron remains in effect. \r\n 2. Unocal said it would evaluate the CNOOC offer."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A number of the items that he auctioned off over the two day period have been seen on his reality TV show The Osbournes, which featured home life with Sharon, Ozzy and their two children. Amongst some of the higher-priced items were a carved walnut Victorian-style custom built pool table which raised $11,250, a painting from Edourad Drouot which fetched $10,500, a pair of Ozzy's famous round glasses which raised $5,250 and a dog bed given to Sharon by Elton John which sold for $2,375. \r\n 2. \"The Osbournes\" is the name of a reality show starring Ozzy Osbourne."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The Supreme Court said today states may bar the removal of life-sustaining treatment from comatose patients who have not made or cannot make their desires known. \r\n 2. There is a Supreme Court decision about the removal of life-support."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. According to reports, a man protesting the G20 Summit in London, England has died after collapsing at a protester camp. Sky News says the man collapsed on the street inside a camp close to the Bank of England and when found he was still breathing, but efforts by paramedics to rescue him failed and he was pronounced dead at an area hospital. The name of the person and cause of death are not yet known, but several people were injured earlier in the day. It is also reported by Sky News that people threw bottles at him and authorities when they were taking him to a waiting ambulance. \r\n 2. Sky News offices are close to the Bank of England."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The town is also home to the Dalai Lama and to more than 10,000 Tibetans living in exile. \r\n 2. The Dalai Lama has been living in exile since 10,000."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. As a result, peptic ulcer disease has been transformed from a chronic, frequently disabling condition to one that can be cured by a short regimen of antibiotics and other medicines. \r\n 2. Antibiotics are used against peptic ulcer."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Researchers at the Harvard School of Public Health say that people who drink coffee may be doing a lot more than keeping themselves awake - this kind of consumption apparently also can help reduce the risk of diseases. \r\n 2. Coffee drinking has health benefits."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Swedish massage is used to help relax muscles, increase circulation, remove metabolic waste products, help the recipient obtain a feeling of connectedness, a better awareness of their body and the way they use and position it. \r\n 2. Swedish massage loosens tense muscles."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. NASA's two Great Observatories, the Hubble Space Telescope and the Chandra X-ray Observatory, have independently provided what could be the best direct evidence yet for the existence of an event horizon, the defining feature of a black hole. \r\n 2. Hubble discovers black holes."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. High dietary intake of potassium from fruits and vegetables throughout one's life helps to preserve bone mass, thereby preventing bone loss that can lead to osteoporosis. \r\n 2. Dietary intake of potassium prevents osteoporosis."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. In a bowl, whisk together the eggs and sugar until completely blended and frothy. \r\n 2. In a bowl, whisk together the egg, sugar and vanilla until light in color."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The west has preferred to focus on endangered animals, rather than endangered humans. African elephants are hunted down and stripped of tusks and hidden by poachers. Their numbers in Africa slumped from 1.2m to 600,000 in a decade until CITES - the Convention on International Trade in Endangered Species - banned the trade in ivory. \r\n 2. An international convention banned trade in ivory."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. At around 14:00 UTC today, a man climbed over the perimeter fence and made his way onto the North runway, 27R, at London's  Heathrow Airport, the United Kingdom's largest airport. The man, who was carrying a rucksack, then attempted to run in front of a plane on the runway,  however it is believed that he was tackled to the ground by armed police before reaching the wide runway. \r\n 2. The number of security screeners in US airports will be reduced."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. \"It's Only a Play\" is Terrence McNally's \"Give My Regards to Broadway,\" a lightweight tribute to the theater as seen from the lofty but limited vantage point of Broadway artists who are consumed by New York's hit/flop mentality. \r\n 2. Broadway is in New York."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Eric Harris and Dylan Klebold, seniors at the suburban Denver school, detonated homemade bombs and opened fire with shotguns, a rifle and a semiautomatic handgun on April 20, 1999. They killed a teacher and 12 students and wounded 23 others before committing suicide. The massacre shocked the country like no other. It was the worst school assault in American history at that time, and it came in the wake of a half-dozen others. It played out on live television, watched by millions. And it represented the violent destruction of a cherished American idea: that schools in the suburbs and the countryside were havens of peace and safety. \r\n 2. 13 persons were killed by two students in 1999."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Andreessen, who helped define the Internet revolution as part of team that created the first Internet browser (Mosaic) and his co-founding Netscape, told a packed hall at the San Francisco Marriott hotel Thursday that he is \"extremely committed\" to his startup Loudcloud. \r\n 2. The Internet browser Mosaic was created at the San Francisco Marriott hotel."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Hepburn's platinum, diamond and sapphire brooch had been estimated to fetch just $20,000, but sold for $120,000, six times its estimated price. \r\n 2. Hepburn's diamond and sapphire brooch fetched $120,000."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A cataclysmic starquake is thought to have caused a flare of radiation that ripped past the Earth on December 27, battering instruments on satellites and lighting up our atmosphere. \r\n 2. The flash of radiation on December 27,  lit up the Earth's atmosphere."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A closely divided U.S. Supreme Court said on Thursday its 2002 ruling that juries and not judges must impose a death sentence applies only to future cases, a decision that may affect more than 100 death row inmates. \r\n 2. The Supreme Court decided that only judges can impose the death sentence."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Spirou was created in 1938 by Rob-Vel, who sold the rights to the Dupuis publishing house in early 40's. Other artists like Jije (Joseph Gillain) took care of the feature. \r\n 2. Spirou was created by Rob-Vel."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. COLOMBO (Reuters) - At least five people were killed and 11 wounded when a suspected Tamil Tiger suicide bomber blew herself up inside a police station in the Sri Lankan capital on Wednesday, shattering more than two years of relative peace. \r\n 2. People were killed in Tamil suicide attacks."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Tropical storm Koni dumped significant rains on the Philippines before becoming a minimal typhoon and eventually making landfall on the northern coast of Vietnam. \r\n 2. A tropical storm has caused significant property damage."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The Daily Telegraph, most prized asset in Lord Conrad Black's crumbling media empire, has been sold to Britain's Barclay twins. \r\n 2. Daily telegraph is sold."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Adela Lupse was born in 1988 to a miner's family in the village of Poiana, Bihor in Transylvania, Romania. A member of Romania's first post-Ceausescu generation, she grasped the power of television at a young age: \"I think television is the most interesting phenomenon that the modern day has given us....for my type of personality, I find it impressive, the power that television has worldwide....We dress like the people that television promotes. We want to look like the celebrities that television launches.\" \r\n 2. Bihor is situated in Romania."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Wilson has, after all, produced all three Offspring albums, including \"Smash,\" the one that has astonished everybody by selling 1 million copies in four months, establishing the heretofore unknown group as the leader, with Green Day, of an unprecedented wave of commercial success for punk. \r\n 2. \"Smash\" is the title of the third album of the Offspring."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The team drawing up Iraq's new constitution considered giving itself more time to write the document on Sunday, but still looked set to meet its mid-August deadline under intense U.S. pressure. \r\n 2. On Sunday, officials argued about whether to seek a delay of the August deadline for completing the document in order to give them more time to hash out such sticky issues."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The beleaguered Euro-Disney theme park outside Paris is doing so poorly it might have to close unless it gets help soon from its lenders, the chairman of Walt Disney Co. said in an interview published Friday. \r\n 2. Euro-Disney is a theme park outside Paris."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Charles de Gaulle died in 1970 at the age of eighty. He was thus fifty years old when, as an unknown officer recently promoted to the (temporary) rank of brigadier general, he made his famous broadcast from London rejecting the capitulation of France to the Nazis after the debacle of May-June 1940. \r\n 2. Charles de Gaulle died in 1970."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. In New York, Nymex light crude oil for July delivery hit $42.38 per barrel on Tuesday \r\n 2. Crude oil futures surged to an all-time high in New York Tuesday, at 42 dollars a barrel."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Compuware claims that Allan Tortorice and Jim Hildner were among several former employees who revealed trade secrets after they moved to IBM. \r\n 2. Trade secrets were stolen."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Primary prevention of Alzheimer's disease is not possible at present. \r\n 2. Alzheimer's disease is treated using drugs."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Capital punishment acts as a deterrent. \r\n 2. Capital punishment is a deterrent to crime."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. In November 1990, the president announced that opposition political parties would be permitted to organize in 1991. Several new parties emerged, including the Democratic Republican Movement (MDR), the Liberal Party (LP), the Democratic and Socialist Party (PSD), and the Coalition for the Defense of the Republic (CDR). \r\n 2. Several new political parties emerged."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A United Nations vehicle was attacked in the Serbian province of Kosovo and at least one civilian policeman was killed, the United Nations said. \r\n 2. A civilian policeman was killed."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Easter is over but that doesn't mean you can't enjoy \"Ben-Hur,\" the granddaddy of biblical epics and winner of a record 11 Oscars, including best picture and best actor (Charlton Heston in the title role). \r\n 2. Charlton Heston played the title role in the movie \"Ben-Hur\"."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The San Diego Padres ace, Jake Peavy, was hurt in an 8-5 loss to the St. Louis Cardinals. \r\n 2. The San Diego Padres won the game against the St. Louis Cardinals."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Kevin Whitaker, who heads the Cuban affairs office at the Department of State, spoke with Lazo on two occasions about the effort to give his sons visas. \r\n 2. Kevin Whitaker is a manager of the Department of State."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. NASA estimated, Monday, that it will cost $104 billion to return astronauts to the moon, by 2018, in a new rocket that combines the space shuttle with the capsule of an earlier NASA era. \r\n 2. The new space vehicle design uses shuttle rocket parts and an Apollo-style capsule."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Meadows scored a bit part in a January episode of \"Law & Order\". \r\n 2. Meadows appeared in a \"Law & Order\" episode which aired in January."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Wal-Mart Stores has asked a US federal appeals court to review a judge's order approving class-action status for a sex-discrimination lawsuit. \r\n 2. The judge approves of sex-discrimination."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Merrill Lynch & Co. and Smith Barney, now a unit of Citigroup, in 1998 settled discrimination cases involving hundreds of female employees. \r\n 2. Merrill Lynch & Co. and Smith Barney are now a unit of Citigroup."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. The plan was released by Mr Dean on behalf of the Secretary of Health and Human Services, Tommy Thompson, still recovering from a recent accident, at a Secretarial Summit on Health Information Technology that was attended by many of the nation's leaders in electronic health records. \r\n 2. Mr Dean is the Secretary of Health and Human Services."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. La Paz, 30 May 89 - La Paz Department Police authorities have disclosed that investigations into the murder of two young U.S. citizens are being conducted by a specialized group summoned specially to clarify this crime. \r\n 2. Two young U.S. citizens were killed on 30 May 89."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. South America - The President of Colombia Alvaro Uribe is scheduled to meet the President of Venezuela Hugo Ch\u00e1vez Thursday. Apparently the crisis between Venezuela and Colombia is almost solved. The crisis began with the imprisonment of the alleged FARC member Rodrigo Granda by Colombian forces on December 13, 2004. Venezuela accused Colombian of invading Venezuelan territory. Colombia accused Venezuela of harboring FARC terrorists. The President of Cuba, Fidel Castro, intervened in the crisis and talked to Chavez and Uribe. \r\n 2. Alvaro Uribe is the current President of Colombia."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. IBM stole trade secrets to copy two of its programs -- File-AID, a file manager, and Abend-AID, a program that helps users locate the source of glitches. \r\n 2. Trade secrets were stolen."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha. \r\n 2. P. Prayong is a member of Theravada."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. For US pharmaceutical companies, the impending healthcare reforms promise an era of increased cost-containment and pricing controls. \r\n 2. The US government wants to keep drug prices down."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. About half were along a 20-mile stretch of Santa Monica Bay from Topanga Canyon Boulevard to the Palos Verdes Peninsula. \r\n 2. The coastline of Santa Monica Bay is 50 miles long."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. A farmer who was in contact with cows suffering from BSE -- the so-called mad cow disease -- has died from what is regarded as the human form of the disease. \r\n 2. Bovine spongiform encephalopathy is another name for the \"mad cow disease\"."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Ahern, who was travelling to Tokyo for an EU-Japan summit yesterday, will consult with other EU leaders by telephone later this week in an effort to find an agreed candidate. \r\n 2. A summit between Europe and Japan is taking place in the Japanise capital."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday's 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1. \r\n 2. France participates in Euro 2004."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. An auto analyst for Bombay's Angel Broking, Vaishali Jajoo, predicted that the Nano will add only three percent to Tata's revenues even if it can sell a quarter of a million such cars per annum. \"That doesn't make a significant difference to the top line,\" Jajoo said. \"And for the bottom line, it will take five to six years to break even.\" Environmentalists say that the car will exacerbate traffic problems already rife in India, and help increase pollution levels. Tata, however, stated that its vehicle is the least polluting car in the country. \r\n 2. Angel Broking is based in Bombay."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Research workers of the German archaeological institute have discovered a mummy in permafrost at excavation work in Mongolia of approximately 2,500 years old. \r\n 2. Altai ice maiden triggers major dispute."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Pibul Songgram was the pro-Japanese military dictator of Thailand during World War 2. \r\n 2. Pibul was the dictator of Thailand."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Philadelphia is considered the birthplace of the United States of America, where the Declaration of Independence and Constitution were written and signed in the city's Independence Hall. \r\n 2. The US Declaration of Independence is located in Philadelphia."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Evans Paul, the pro-Aristide mayor of Port-au-Prince, said he had been told that the money will go to American lobbyists, politicians and journalists to campaign against the return of Aristide, Haiti's first democratically elected president \r\n 2. Evans Paul is the mayor of Port-au-Prince."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Ssangyong Motor was taken over by creditors after it collapsed under heavy debts during the 1997-98 Asian financial crisis. \r\n 2. Asian financial crisis takes over Ssangyong Motor"
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Italian film-maker, Fellini was awarded an honorary Oscar for lifetime achievement. He died on October 31, 1993. \r\n 2. An Italian director is awarded an honorary Oscar."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Grieving father Christopher Yavelow hopes to deliver one million letters to the queen of Holland to bring his children home. \r\n 2. Christopher Yavelow is the queen of Holland."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. At the same time the Italian digital rights group, Electronic Frontiers Italy, has asked the nation's government to investigate Sony over its use of anti-piracy software. \r\n 2. Italy's government investigates Sony."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Giuliana Sgrena was freed from captivity in Iraq today. The Italian journalist was abducted in Baghdad exactly a month ago while  she had been reporting for Il Manifesto. The Islamic Jihad Organisation had taken her hostage on the 4th February with the demand that Italy withdraw all of its troops from Iraq. On February 16, a video was released with a clearly distraught Mrs Sgrena begging for Italy to withdraw from Iraq. However despite the video, the Italian Senate voted to extend its miltary forces' stay in Iraq. \r\n 2. A female journalist was kidnapped in Iraq."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Romano Prodi will meet the US President George Bush in his capacity as president of the European commission. \r\n 2. Romani Prodi is the US President."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. US President Barack Obama has been sketching out the future direction of his administration, in events to mark his first 100 days in office. Mr Obama addressed a town hall meeting in St Louis before holding a primetime news conference, broadcast live on most US TV networks. Traditionally, commentators have used the milestone to assess presidents' early successes and failures. Latest polls suggest Mr Obama continues to enjoy a high level of popularity. \r\n 2. Barack Obama has been President of the U.S. for 100 days."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Plans are being drawn up to build a \u00a33.3m working replica of the boat that took Charles Darwin around the world at Milford Haven in Pembrokeshire. Fundraising for the project, which would mark the 200th anniversary of Darwin's birth in 2009, is under way. The aim is to built a seaworthy vessel identical to the HMS Beagle on the outside, but with a modern interior. Darwin, who showed how natural selection could explain evolution, sailed on the Beagle between 1831-36. \r\n 2. Charles Darwin took a voyage on a ship named HMS Beagle."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. Police in the Lower Austrian town of Amstetten have arrested a 73 year old man who is alleged to have kept his daughter, now aged 42, locked in the cellar of his house in Amstetten since 29th August 1984. The man, identified by police as Josef Fritzl, is alleged to have started sexually abusing his daughter, named as Elisabeth Fritzl, when she was eleven years old, and to have subsequently fathered seven children by her. One of the children, one of a set of twins born in 1996, died of neglect shortly after birth and the body was burned by the father. \r\n 2. Amstetten is located in Austria."
+    },
+    {
+        "instruction": "Are the following two sentences entailment or not entailment? Answer me with \"entailment\" or \"not entailment\".",
+        "data_prompt": "1. BEIRUT, Nov. 21 (Xinhua) -- Lebanese Industry Minister and Christian leader Pierre Gemayel was shot dead on a street in the suburb of Beirut on Tuesday, al-Jazeera TV channel quoted the Lebanese Interior Ministry as saying. \r\n 2. Pierre Gemayel was murdered on a street in the suburb of Beirut."
+    }
+]
