@@ -19,7 +19,7 @@ pip install -e .
 
 ### Detecting Prompt Injection Attacks
 
-PIShield is designed to detect **prompt injection attacks** where malicious instructions are embedded in the target data. 
+PIShield is designed to detect **prompt injection attacks** where malicious instructions are embedded in the user data. 
 
 
 ```python
