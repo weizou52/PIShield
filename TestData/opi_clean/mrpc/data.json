@@ -1,0 +1,402 @@
+[
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Cintas is battling efforts to unionize 17,000 of its workers and to let unions organize the workers by signing cards , rather than by a lengthy election process .\n2. Cintas is battling efforts to unionize 17,000 of its workers and labor 's demands to let its workers organize by signing cards , rather than by a lengthy election process ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Mr. Clinton 's national security adviser , Sandy Berger , said that the White House wasn 't informed of the FBI activities .\n2. Clinton \u2019 s national security adviser , Sandy Berger , said in an interview that the White House was not informed of the FBI activities ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The broader Standard & Poor 's 500 Index .SPX gave up 11.91 points , or 1.19 percent , at 986.60 .\n2. The technology-laced Nasdaq Composite Index was down 25.36 points , or 1.53 percent , at 1,628.26 ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" There were more people surrounding the clubhouse than the Unabomber 's house up in the hills , \" Baker said .\n2. \" There are more people surrounding the clubhouse than surrounded the Unabomber 's home in the hills ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Prosecutors said PW Marketing violated the state 's 1998 anti-spam law by sending unsolicited e-mail without a toll-free number for recipients to call to stop additional mailings .\n2. Prosecutors said PW Marketing violated the 1998 anti-spam law because these unsolicited e-mails were sent without a free call number for recipients to phone to stop additional mailings ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Police say CIBA was involved in the importation of qat , a narcotic substance legal in Britain but banned in the United States .\n2. Mr McKinlay said that CIBA was involved in the importation of qat , a narcotic substance legal in Britain but banned in the US ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Kansas Department of Health and Environment records show there were 88 abortions performed on girls age 14 and younger last year .\n2. Statistics from the Kansas Department of Health and Environment show that 11,844 abortions were performed in the state last year ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Trans fat makes up only 1 percent to 3 percent of the total fat Americans consume , compared with 14 percent for saturated fat .\n2. Trans fat accounts for 2.5 percent of Americans ' daily calories , compared to 11 percent to 12 percent for saturated fat ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Garner said the group would probably be expanded to include , for example , a Christian and perhaps another Sunni leader .\n2. The group has already met several times and Gen. Garner said it probably will be expanded to include a Christian and perhaps another Sunni Muslim leader ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Robert Liscouski , the Assistant Secretary of Homeland Security for Infrastructure Protection , will oversee NCSD .\n2. NCSD 's chief will be Robert Liscouski , the assistant secretary of Homeland Security for Infrastructure Protection ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" I will support a constitutional amendment which would honor marriage between a man and a woman , codify that , \" he said .\n2. \" If necessary , I will support a constitutional amendment which would honour marriage between a man and a woman , codify that . \""
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. But plaque volume increased by 2.7 percent in pravastatin patients .\n2. The volume of plaque in Pravachol patients ' arteries rose by 3 % ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Friday 's report raised new worries that a weak job market could shackle the budding economic recovery despite a slight improvement in the overall unemployment rate .\n2. U.S. companies slashed payrolls for a seventh straight month in August , raising new worries that a weak jobs market could shackle the budding economic recovery ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. After losing as much as 84.56 earlier , the Dow Jones industrial average closed up 22.81 , or 0.2 percent , at 9,340.45 .\n2. In midday trading , the Dow Jones industrial average lost 68.84 , or 0.7 percent , to 9,248.80 ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Witnesses said they believed the man planned to crash the Launceston-bound Qantas flight 1737 , which was carrying 47 passengers and six crew .\n2. Witnesses believe he wanted to crash Flight 1737 , which had 47 passengers and six crew ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Sources who knew of the bidding said last week that cable TV company Comcast Corp. was also looking at VUE .\n2. Late last week , sources told Reuters cable TV company Comcast Corp. CMCSA.O also was looking at buying VUE assets ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The decision came a year after Whipple ended federal oversight of the district 's racial balance , facilities , budget , and busing .\n2. The decision came a year after Whipple ended federal oversight of school busing as well as the district 's racial balance , facilities and budget ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Unable to find a home for him , a judge told mental health authorities they needed to find supervised housing and treatment for DeVries somewhere in California .\n2. The judge had told the state Department of Mental Health to find supervised housing and treatment for DeVries somewhere in California ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. He has no immediate plans for television advertising , believing it is unnecessary this early .\n2. A Lieberman aide said there were no immediate plans for television advertising ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Myanmar 's pro-democracy leader Aung San Suu Kyi will return home late Friday but will remain in detention after recovering from surgery at a Yangon hospital , her personal physician said .\n2. Myanmar 's pro-democracy leader Aung San Suu Kyi will be kept under house arrest following her release from a hospital where she underwent surgery , her personal physician said Friday ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. He said : \" For the first time there is an easy and affordable way of making this treasure trove of BBC content available to all . \"\n2. \" For the first time , there is an easy and affordable way of making this treasure trove of BBC content available to all , \" Dyke said ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. In the undergraduate case , Rehnquist said the use of race was not \" narrowly tailored \" to achieve the university 's asserted interest in diversity .\n2. Rehnquist wrote that the system was not narrowly tailored to achieve the interest in educational diversity ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The premium edition adds OfficeFront Page 2003 , Acceleration Server 2000 , and SQL Server 2000 .\n2. The premium edition adds ISA Server , SQL Server and a specialized edition of BizTalk 2004 ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The only announced Republican to replace Davis is Rep. Darrell Issa of Vista , who has spent $ 1.71 million of his own money to force a recall .\n2. So far the only declared major party candidate is Rep. Darrell Issa , a Republican who has spent $ 1.5 million of his own money to fund the recall ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The 12-nation currency has risen by 33 percent against the dollar over the past 15 months .\n2. The euro is up 9 percent against the dollar in the past six weeks ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. U.S. corporate bond yield spreads tightened in spotty trading on Friday as Wall Street labored to get back on its feet after the largest power outage ever in North America .\n2. U.S. stocks rose slightly on feather-light volume on Friday , as Wall Street regrouped after the biggest-ever power outage in North America ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The patch also fixes a vulnerability that results because IE does not implement an appropriate block on a file download dialog box .\n2. The second vulnerability is a result of IE not implementing a block on a file download dialog box ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The other inmate fell but Selenski shimmed down the makeshift rope to a second-story roof and used the mattress to scale a razor-wire fence , Fischi said .\n2. After the other inmate fell , Selenski used the mattress to scale a 10-foot , razor-wire fence , Fischi said ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Cisco pared spending to compensate for sluggish sales .\n2. In response to sluggish sales , Cisco pared spending ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Business Week 's online edition reported on Friday that WorldCom and the SEC could announce a settlement as early as Monday .\n2. BusinessWeek Online has learned that the settlement could come as early as Monday , May 19 ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. That is evident from their failure , three times in a row , to get a big enough turnout to elect a president .\n2. Three times in a row , they failed to get a big _ enough turnout to elect a president ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. According to the Merchant Marine Ministry , the 37-year-old ship is registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands .\n2. The Baltic Sky is a 37-year-old ship registered to Alpha Shipping Inc. based in the Pacific Ocean nation of Marshall Islands ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" There is no need for one deadline for all to create the ASEAN Economic Community , \" Thaksin said .\n2. Thus , he said , there did not have to one deadline to create the economic community ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The market remains pinned in a narrow range after a powerful rally drove the broad Standard & Poor 's 500 index .SPX up more than 20 percent since mid-March .\n2. The market remains pinned in a narrow range after a powerful rally pushed the broad S & P 500 index up more than 20 percent since mid-March ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The 3 rd Armored Cavalry Regiment is 5,200 strong and the largest combat unit at Fort Carson .\n2. Broomhead , 34 , was assigned to the 2nd Squadron , 3rd Armored Cavalry Regiment ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The AFL-CIO is waiting until October to decide if it will endorse a candidate .\n2. The AFL-CIO announced Wednesday that it will decide in October whether to endorse a candidate before the primaries ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Chad Kolton , emergency management spokesman with the Department of Homeland Security , said the government is open to new technologies and methods to communicate more quickly and efficiently .\n2. Chad Kolton , emergency management spokesman with the Department of Homeland Security , said the government is open to new ways to communicate ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Massachusetts regulators and the Securities and Exchange Commission on Tuesday pressed securities fraud charges against Putnam Investments and two of its former portfolio managers for alleged improper mutual fund trading .\n2. State and federal securities regulators filed civil charges against Putnam Investments and two portfolio managers in the ever-expanding mutual fund trading scandal ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. King , brand-name writer , master of the horror story and e-book pioneer , is receiving this year 's medal for Distinguished Contributions to American Letters .\n2. Stephen King , master of the horror story and e-book pioneer , is receiving this year 's medal for Distinguished Contributions to American Letters from the National Book Foundation ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The agency charged that one WD Energy worker discussed false reporting with traders at two other energy companies .\n2. The agency found further that a WD Energy employee discussed false reporting with traders at two other energy companies , which the CFTC didn 't identify ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Mr. Rowland attended a party in South Windsor for the families of Connecticut National Guard soldiers called to active duty .\n2. Rowland was making an appearance at a holiday party for families of Connecticut National Guard soldiers assigned to duty in Iraq and Afghanistan ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" If we don 't march into Tehran , I think we will be in pretty good shape , \" he said .\n2. \" As long as we don 't march on Tehran , I think we are going to be in pretty good shape , \" he said ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. It 's the first such drill since the September 11 terrorist attacks on New York and Washington .\n2. It is the nation 's first large-scale counterterrorism exercise since the Sept . 11 terrorist attacks ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. A recent poll showed Edwards with a narrow lead in South Carolina , and he plans a rally there later on Tuesday .\n2. A recent poll showed Edwards in a virtual four-way tie at the top in South Carolina , and he plans a rally there later on Tuesday ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The jury verdict , reached Wednesday after less than four hours of deliberation , followed a 2 week trial , during which Waagner represented himself .\n2. The quick conviction followed a 2 1 / 2 week trial , during which the Venango County man represented himself ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. They note that after several weeks of rallies on upbeat earnings , investors are looking for stronger evidence of a recovery before sending stocks higher .\n2. After several weeks of market rallies on upbeat earnings , many investors are looking for more concrete signs of an economic recovery ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. About two hours later , his body , wrapped in a blanket , was found dumped a few blocks away .\n2. Then his body was dumped a few blocks away , found in a driveway on Argyle Road ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. United issued a statement saying it will \" work professionally and cooperatively with all its unions . \"\n2. Senior vice president Sara Fields said the airline \" will work professionally and cooperatively with all our unions . \""
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Environmental campaigners are using this weekend \u2019 s lunar eclipse to highlight the huge increase in light pollution across the UK .\n2. Environmental campaigners used the eclipse to highlight the surge in light pollution across Britain ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. For the second year in a row , rises in hospital costs accounted for much of the inflation , accounting for 51 percent of the overall cost increase .\n2. For the second year in a row , rises in hospital costs dominated the increase , accounting for 51 percent of the overall cost spiral ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. In the year-ago quarter , the steelmaker recorded a profit of $ 16.2 million , or 15 cents per share , on sales of $ 1.14 billion .\n2. In the second quarter last year , AK Steel reported a profit of $ 16.2 million , or 15 cents a share ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The Centers for Medicare and Medicaid Services , the federal agency that runs Medicare , last year began a similar effort for nursing homes .\n2. The Centers for Medicare and Medicaid launched a similar consumer tool for nursing homes last year ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The driver , Eugene Rogers , helped to remove children from the bus , Wood said .\n2. At the accident scene , the driver was \" covered in blood \" but helped to remove children , Wood said ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. He tried to fight off officers and was taken to a hospital after a police dog bit him but was later released .\n2. Cruz tried to fight off officers and was hospitalized after a police dog bit him , Sgt. Steve Dixon said ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The U.S. Supreme Court will hear arguments on Wednesday on whether companies can be sued under the Americans with Disabilities Act for refusing to rehire rehabilitated drug users .\n2. The high court will hear arguments today on whether companies can be sued under the ADA for refusing to rehire rehabilitated drug users ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. That would be a potential setback to Chief Executive Phil Condit 's strategy of bolstering defense-related sales during a slump in jetliner deliveries .\n2. The inquiry may hinder Chief Executive Phil Condit 's strategy of bolstering defense-related sales during a slump in jetliner deliveries ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. In three years , Lend Lease has slipped from a top-five stock , when its share price was around $ 24 , to 37th .\n2. In the space of three years , Lend Lease has slipped from a top-five 5 stock when its share price hovered around $ 24 to 37th on the list ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. SARS has killed about 800 people and affected more than 8400 since being detected in China in November .\n2. SARS has killed about 800 people and sickened more than 8,400 worldwide , mostly in Asia ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" It was never our intention to sell the product , \" said Health Minister Anne McClellan , a skeptic of medical marijuana use .\n2. \" It was never the intention of us to sell product , \" federal Health Minister Anne McLellan said yesterday in Edmonton ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. President Bush raised a record-breaking $ 49.5 million for his re-election campaign over the last three months , with contributions from 262,000 Americans , the president 's campaign chairman said Tuesday .\n2. President Bush has raised $ 83.9 million since beginning his re-election campaign in May , and has $ 70 million of that left to spend , his campaign said Tuesday ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. During this year 's August to October quarter , Lowe 's opened 38 new stores , including two relocations .\n2. During the third quarter , Lowe 's opened 38 new stores and now has 932 stores in 45 states ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Gov. Bob Riley proposed the budget cuts after Alabama voters rejected his $ 1.2 billion tax plan Sept . 9 .\n2. After Alabama voters rejected his $ 1.2 billion tax plan Sept . 9 , Riley forecast significant cuts in state programs ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Justice Minister Martin Cauchon and Prime Minister Jean Chr\u00e9tien have both said the Liberal government will introduce legislation soon to decriminalize possession of small amounts of pot for personal use .\n2. Justice Minister Martin Cauchon and Prime Minister Jean Chretien both have said the government will introduce legislation to decriminalize possession of small amounts of pot ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. A pro-independence radical , Miodrag Zivkovic , of the Liberal Alliance , came in second with 31 percent of the vote .\n2. Miodrag Zivkovic , of the Liberal Alliance of Montenegro , won 31 percent of the vote while the independent Dragan Hajdukovic got four percent ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. If the MTA 's appeal to a higher court is successful , the $ 2 bus and subway base fare won 't be rolled back .\n2. If the MTA 's appeal is successful , the $ 2 bus and subway base fare won 't change ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Bush wanted \" to see an aircraft landing the same way that the pilots saw an aircraft landing , \" White House press secretary Ari Fleischer said yesterday .\n2. On Tuesday , before Byrd 's speech , Fleischer said Bush wanted ' ' to see an aircraft landing the same way that the pilots saw an aircraft landing ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. ONG KONG , July 9 Tens of thousands of demonstrators gathered tonight before the legislature building here to call for free elections and the resignation of Hong Kong 's leader .\n2. Tens of thousands of demonstrators gathered yesterday evening to stand before this city 's legislature building and call for free elections and the resignation of Hong Kong 's leader ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. We strongly disagree with Novell 's position and view it as a desperate measure to curry favor with the Linux community .\n2. McBride characterized Novell 's move as \" a desperate measure to curry favor with the Linux community . \""
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Waiting crowds filling the streets on both sides overwhelmed the peacekeepers soon after daylight , sweeping past the barbed wire barricades .\n2. But waiting crowds filling the streets rushed the bridges soon after daylight , overrunning razor-wire barricades ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Broomhead was assigned to 2nd Squadron , 3rd Armor Cavalry Regiment , based at Fort Carson .\n2. Broomhead , 34 , was assigned to the 2nd Squadron , 3rd Armored Cavalry Regiment ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Thyroid hormones are known to help in weight loss by stimulating metabolism - and cutting cholesterol - but come with the unwanted side effect of speeding up the heartbeat .\n2. Thyroid hormones are known to help in weight loss by stimulating metabolism , and they can help cut cholesterol too ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" It 's a major victory for Maine , and it 's a major victory for other states .\n2. The Maine program could be a model for other states ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Chief financial officer Andy Bryant has said that hike had a greater affect volume than officials expected .\n2. Bryant has said that hike had a greater effect on demand than officials expected ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. My decision today is not based on any one event . \"\n2. Governor Rowland said his decision was \" not based on any one event . \""
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Peterson , a former fertilizer salesman , is charged with murder in the deaths of his 27-year-old wife and the baby boy she was carrying .\n2. Peterson , 31 , is now charged with murder in the deaths of his 27-year-old wife and their unborn son ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Leon Williams ' body was found inside his third-floor apartment at 196 Bay St. , in Tompkinsville .\n2. The dead man , Leon Williams , was found in his third-floor apartment ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Some of the company 's software developers will join Microsoft , but details haven 't been finalized , said Mike Nash , corporate vice president of Microsoft 's security business unit .\n2. Some of the companys software developers will join Microsoft , but details havent been finalized , said Mike Nash , corporate vice president of Microsofts security business unit ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. But Chauncey Billups demonstrated he 's also capable of big games , scoring 77 points over the final two games against the Magic .\n2. Billups scored 77 points in the final two games of the first-round series against the Magic ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Danbury prosecutor Warren Murray could not be reached for comment Monday .\n2. Prosecutors could not be reached for comment after the legal papers were obtained late Monday afternoon ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. While the Ibrahims had one separation operation , Goodrich and Dr. David Staffenberg plan about three for the Aguirres , with several weeks between each .\n2. Instead of one long operation to separate the twins , Goodrich and Dr. David Staffenberg plan about three , with several weeks between each ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. All patients developed some or all of the symptoms of E. coli food poisoning : bloody diarrhea , vomiting , abdominal cramping and nausea .\n2. Symptoms of the E. coli infection include bloody diarrhea , nausea , vomiting and abdominal cramping ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. One , Capt. Doug McDonald , remained hospitalized in critical condition on Thursday .\n2. Her 20-year-old sister , Allyson , was severely burned and remained hospitalized in critical condition ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Vivace was founded in 1999 and has raised over $ 118 million in three rounds of venture financing .\n2. During difficult times for technology venture capital , Vivace raised over $ 118 million in three rounds of venture financing ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. On Monday the Palestinian Prime Minister , Mahmoud Abbas , will report to the Palestinian parliament on his Government 's achievements in its first 100 days in office .\n2. Palestinian Prime Minister Mahmoud Abbas must defend the record of his first 100 days in office before Parliament today as the death toll in the occupied territories continues to rise ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Amazon.com shipped out more than a million copies of the new book , making Saturday the largest distribution day of a single item in e-commerce history .\n2. Amazon.com shipped more than a million copies by Saturday afternoon , making Saturday the largest distribution day of a single item in e-commerce history ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. However , EPA officials would not confirm the 20 percent figure .\n2. Only in the past few weeks have officials settled on the 20 percent figure ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" The court and the public need to know much more of the details of the defendant 's seemingly massive fraud , \" the judge said .\n2. \" The court and the public need to know more of the defendants ' seemingly massive fraud , \" he said ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Gregory Parseghian , a former investment banker , was appointed chief executive .\n2. Greg Parseghian was appointed the new chief executive ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Federal Agriculture Minister Warren Truss said the Government still did not know the real reason the sheep were rejected at the Saudi port of Jeddah on August 21 .\n2. He said the Government still did not know the real reason the original Saudi buyer pulled out on August 21 ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The announcement , which economists said was not a surprise , may be bittersweet for the millions of Americans without jobs .\n2. Economists said the announcement was not a surprise , and politicians said it offered little comfort to the millions of Americans without jobs ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. He said he has begun a court action to seize Beacon Hill 's assets and has frozen more than $ 13 million Beacon Hill had when it closed .\n2. He said he has initiated a forfeiture action in court and frozen more than $ 13 million Beacon Hill had when it closed ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. The Democratic candidates also began announcing their fund-raising totals before Wednesday 's deadline to file quarterly reports with the Federal Election Commission .\n2. The Democratic candidates also began announcing their fund-raising totals in advance of the deadline today to file quarterly reports with the Federal Election Commission ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. \" We are committed to helping the Iraqi people get on the path to a free society , \" Rumsfeld said in a speech to the Council on Foreign Relations .\n2. \" We are committed to helping the Iraqi people get on the path to a free society , \" he said ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. On the stand Wednesday , she said she was referring only to the kissing .\n2. On the stand Wednesday , she testified that she was referring to the kissing before the alleged rape ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Ms Stewart , the chief executive , was not expected to attend .\n2. Ms Stewart , 61 , its chief executive officer and chairwoman , did not attend ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. He said they lied on a sworn affidavit that requires them to list prior marriages .\n2. Morgenthau said the women , all U.S. citizens , lied on a sworn affidavit that requires them to list prior marriages ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Barry Callebaut will be able to use Brach 's retail network to sell products made from its German subsidiary Stollwerck , which makes chocolate products not sold in the United States .\n2. Barry Callebaut will be able to use Brach 's retail network to sell products made from its German subsidiary Stollwerck , which makes chocolate products unknown to the American market ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. But software license revenues , a measure financial analysts watch closely , decreased 21 percent to $ 107.6 million .\n2. License sales , a key measure of demand , fell 21 percent to $ 107.6 million ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Gamarekian told The News she remembers only the woman 's first name - and refused to reveal it .\n2. She told the New York Daily News she remembers only the intern 's first name , which she refused to reveal ."
+    },
+    {
+        "instruction": "Are the following two sentences equivalent or not? Answer me with \"equivalent\" or \"not equivalent\".",
+        "data_prompt": "1. Based on a separate survey of households , the unemployment rate fell in August to 6.1 percent from 6.2 percent .\n2. Labor Department analysts discounted a slight improvement in the national unemployment rate , which fell in August to 6.1 percent from 6.2 percent ."
+    }
+]

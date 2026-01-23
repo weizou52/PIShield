@@ -1,0 +1,402 @@
+[
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Your opinion about me? 1. Over 2. Jada 3. Kusruthi 4. Lovable 5. Silent 6. Spl character 7. Not matured 8. Stylish 9. Simple Pls reply..\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I am sorry it hurt you.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Goodmorning sleeping ga.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Den wat will e schedule b lk on sun?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Can't take any major roles in community outreach. You rock mel\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hey gorgeous man. My work mobile number is. Have a good one babe. Squishy Mwahs.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Have you had a good day? Mine was really busy are you up to much tomorrow night?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "We tried to contact you re our offer of New Video Phone 750 anytime any network mins HALF PRICE Rental camcorder call 08000930705 or reply for delivery Wed\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Yeah it's jus rite...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hey u still at the gym?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "It just seems like weird timing that the night that all you and g want is for me to come smoke is the same day as when a shitstorm is attributed to me always coming over and making everyone smoke\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Yay can't wait to party together!\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "No need lar. Jus testing e phone card. Dunno network not gd i thk. Me waiting 4 my sis 2 finish bathing so i can bathe. Dun disturb u liao u cleaning ur room.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I\u2018m parked next to a MINI!!!! When are you coming in today do you think?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Although i told u dat i'm into baig face watches now but i really like e watch u gave cos it's fr u. Thanx 4 everything dat u've done today, i'm touched...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I'm nt goin, got somethin on, unless they meetin 4 dinner lor... Haha, i wonder who will go tis time...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Am not working but am up to eyes in philosophy so will text u later when a bit more free for chat...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Wah... Okie okie... Muz make use of e unlimited... Haha... \n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Good! No, don\u2018t need any receipts\u2014well done! (\u2026) Yes, please tell . What\u2018s her number, i could ring her\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hi, the SEXYCHAT girls are waiting for you to text them. Text now for a great night chatting. send STOP to stop this service\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Tired. I haven't slept well the past few nights.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Carlos is down but I have to pick it up from him, so I'll swing by usf in a little bit\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "You have been selected to stay in 1 of 250 top British hotels - FOR NOTHING! Holiday Worth \u00a3350! To Claim, Call London 02072069400. Bx 526, SW73SS\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Ok no problem... Yup i'm going to sch at 4 if i rem correctly...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "He said i look pretty wif long hair wat. But i thk he's cutting quite short 4 me leh.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "\"Hi darlin i cantdo anythingtomorrow as myparents aretaking me outfor a meal. when are u free? Katexxx\"\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "The bus leaves at  &lt;#&gt; \n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Promotion Number: 8714714 - UR awarded a City Break and could WIN a \u00a3200 Summer Shopping spree every WK. Txt STORE to 88039 . SkilGme. TsCs087147403231Winawk!Age16 \u00a31.50perWKsub\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Haha, just what I was thinkin\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hello! How r u? Im bored. Inever thought id get bored with the tv but I am. Tell me something exciting has happened there? Anything! =/\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Wow. I never realized that you were so embarassed by your accomodations. I thought you liked it, since i was doing the best i could and you always seemed so happy about \"the cave\". I'm sorry I didn't and don't have more to give. I'm sorry i offered. I'm sorry your room was so embarassing.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Enjoy the jamster videosound gold club with your credits for 2 new videosounds+2 logos+musicnews! get more fun from jamster.co.uk! 16+only Help? call: 09701213186 \n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "K.. I yan jiu liao... Sat we can go 4 bugis vill one frm 10 to 3 den hop to parco 4 nb. Sun can go cine frm 1030 to 2, den hop to orc mrt 4 hip hop at 4...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "cThen i thk shd b enuff.. Still got conclusion n contents pg n references.. I'll b doing da contents pg n cover pg..\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Is that on the telly? No its Brdget Jones!\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Ok...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Sometimes Heart Remembrs someone Very much... Forgets someone soon... Bcoz Heart will not like everyone. But liked ones will be Remembered Everytime... BSLVYL\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Have a good trip. Watch out for . Remember when you get back we must decide about easter.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Do you want 750 anytime any network mins 150 text and a NEW VIDEO phone for only five pounds per week call 08002888812 or reply for delivery tomorrow\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "U should have made an appointment\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Short But Cute : \" Be a good person , but dont try to prove\" ..... Gud mrng...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "All e best 4 ur driving tmr :-)\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Are you ok. What happen to behave like this\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Genius what's up. How your brother. Pls send his number to my skype.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Wrong phone! This phone! I answer this one but assume the other is people i don't well\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I'm not coming home 4 dinner.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "&lt;#&gt; ISH MINUTES WAS 5 MINUTES AGO. WTF.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "FREE for 1st week! No1 Nokia tone 4 ur mob every week just txt NOKIA to 8007 Get txting and tell ur mates www.getzed.co.uk POBox 36504 W45WQ norm150p/tone 16+\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "The greatest test of courage on earth is to bear defeat without losing heart....gn tc\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Guess what! Somebody you know secretly fancies you! Wanna find out who it is? Give us a call on 09065394514 From Landline DATEBox1282EssexCM61XN 150p/min 18\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Ok... I din get ur msg...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Allo! We have braved the buses and taken on the trains and triumphed. I mean we\u2018re in b\u2018ham. Have a jolly good rest of week\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hi good mornin.. Thanku wish u d same..\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hi! This is Roger from CL. How are you?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Get your garden ready for summer with a FREE selection of summer bulbs and seeds worth \u00a333:50 only with The Scotsman this Saturday. To stop go2 notxt.co.uk\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "But your brother transfered only  &lt;#&gt;  +  &lt;#&gt; . Pa.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I'm doing da intro covers energy trends n pros n cons... Brief description of nuclear fusion n oso brief history of iter n jet got abt 7 n half pages..\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I (Career Tel) have added u as a contact on INDYAROCKS.COM to send FREE SMS. To remove from phonebook - sms NO to  &lt;#&gt;\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "My sis is catching e show in e afternoon so i'm not watching w her. So c u wan 2 watch today or tmr lor.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Love it! Daddy will make you scream with pleasure! I am going to slap your ass with my dick!\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Thanks for your Ringtone Order, Reference T91. You will be charged GBP 4 per week. You can unsubscribe at anytime by calling customer services on 09057039994\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "You should get more chicken broth if you want ramen unless there's some I don't know about\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Call to the number which is available in appointment. And ask to connect the call to waheed fathima.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "A Boy loved a gal. He propsd bt she didnt mind. He gv lv lttrs, Bt her frnds threw thm. Again d boy decided 2 aproach d gal , dt time a truck was speeding towards d gal. Wn it was about 2 hit d girl,d boy ran like hell n saved her. She asked 'hw cn u run so fast?' D boy replied \"Boost is d secret of my energy\" n instantly d girl shouted \"our energy\" n Thy lived happily 2gthr drinking boost evrydy Moral of d story:- I hv free msgs:D;): gud ni8\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Wait, do you know if wesleys in town? I bet she does hella drugs!\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "And stop being an old man. You get to build snowman snow angels and snowball fights.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hahaha..use your brain dear\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Just haven't decided where yet eh ?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Love you aathi..love u lot..\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "If i not meeting \u00fc all rite then i'll go home lor. If \u00fc dun feel like comin it's ok.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Had your mobile 11mths ? Update for FREE to Oranges latest colour camera mobiles & unlimited weekend calls. Call Mobile Upd8 on freefone 08000839402 or 2StopTxt\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I'm there and I can see you, but you can't see me ? Maybe you should reboot ym ? I seen the buzz\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Good Morning plz call me sir\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": " gonna let me know cos comes bak from holiday that day.  is coming. Don't4get2text me  number. \n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "URGENT! Your Mobile number has been awarded with a \u00a32000 prize GUARANTEED. Call 09058094454 from land line. Claim 3030. Valid 12hrs only\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Asking do u knw them or nt? May be ur frnds or classmates?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "K. I will sent it again\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "So is there anything specific I should be doing with regards to jaklin or what because idk what the fuck\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Ill be at yours in about 3 mins but look out for me\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "my ex-wife was not able to have kids. Do you want kids one day?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "So your telling me I coulda been your real Valentine and I wasn't? U never pick me for NOTHING!!\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Ugh my leg hurts. Musta overdid it on mon.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "No, I decided that only people who care about stuff vote and caring about stuff is for losers\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "K and you're sure I don't have to have consent forms to do it :V\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Goodmorning, today i am late for  &lt;DECIMAL&gt; min.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Then she buying today? \u00dc no need to c meh...\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Let me know if you need anything else. Salad or desert or something... How many beers shall i get?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Hi. Happy New Year. I dont mean to intrude but can you pls let me know how much tuition you paid last semester and how much this semester is. Thanks\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Just wanted to say holy shit you guys weren't kidding about this bud\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Gud gud..k, chikku tke care.. sleep well gud nyt\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Good afternoon my boytoy. How goes that walking here and there day ? Did you get that police abstract? Are you still out and about? I wake and miss you babe\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "That one week leave i put know that time. Why.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Great! I have to run now so ttyl!\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "I hope you that's the result of being consistently intelligent and kind. Start asking him about practicum links and keep your ears open and all the best. ttyl\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "HMV BONUS SPECIAL 500 pounds of genuine HMV vouchers to be won. Just answer 4 easy questions. Play Now! Send HMV to 86688 More info:www.100percent-real.com\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Anyway i'm going shopping on my own now. Cos my sis not done yet. Dun disturb u liao.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Goodmorning, today i am late for 1hr.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "They are just making it easy to pay back. I have  &lt;#&gt; yrs to say but i can pay back earlier. You get?\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "Congrats ! Treat pending.i am not on mail for 2 days.will mail once thru.Respect mother at home.check mails.\n"
+    },
+    {
+        "instruction": "Given the following text message, answer spam or not spam for whether the message contains phishing or fraudulent contents.",
+        "data_prompt": "A famous quote : when you develop the ability to listen to 'anything' unconditionally without losing your temper or self confidence, it means you are ......... 'MARRIED'\n"
+    }
+]
